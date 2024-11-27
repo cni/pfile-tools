@@ -6,11 +6,11 @@ from setuptools import setup
 
 setup(
     name='pfile-tools',
-    version='0.5.0',
+    version='0.6.0',
     author='Nathan Vack',
     author_email='njvack@wisc.edu',
     license='BSD License',
-    url='https://github.com/njvack/pfile-tools',
+    url='https://github.com/cni/pfile-tools',
     packages=['pfile_tools'],
     entry_points={
         'console_scripts': [
